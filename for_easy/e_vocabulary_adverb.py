@@ -19,4 +19,5 @@ e_vocabulary = {
 "Politely": "– вежливо",
 "Rudely": "– грубо",
 "Honestly": "– честно",
+
 }
