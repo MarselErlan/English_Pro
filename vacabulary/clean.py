@@ -1,8 +1,8 @@
 import re
 
 # Adjust the path if needed
-INPUT_FILE = '/Users/macbookpro/PycharmProjects/English_Pro/vacabulary/t5'
-OUTPUT_FILE = 'unique_words5.txt'
+INPUT_FILE = '/Users/macbookpro/PycharmProjects/English_Pro/vacabulary/n_uw_3_nt1'
+OUTPUT_FILE = 'f_uw.txt'
 
 # Read the transcript
 with open(INPUT_FILE, 'r', encoding='utf-8') as f:
